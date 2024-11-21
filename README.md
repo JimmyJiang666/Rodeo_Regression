@@ -7,7 +7,7 @@ Implementation of the algorithm in *"Rodeo: Sparse, Greedy Nonparametric Regress
 This repository includes code (kernels.py and model.py) adapted from the following source:
 
 - [The Rodeo by Austin Schneider](https://github.com/austinschneider/the-rodeo)
-- 
+  
 ## Features
 - Adaptive bandwidth selection for local linear and constant regression.
 - Dynamically prunes irrelevant dimensions for sparse, efficient regression.
